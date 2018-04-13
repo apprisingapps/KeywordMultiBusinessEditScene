@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "5b9be11a3997c7bd7eac6e2f0177fe5e"
+build_time: [1523582923, 788784000]
+inputs:
+  "/Users/ianhanson/Desktop/Melini/KeywordMultiBusinessEdit/KeywordMultiBusinessEdit/ViewController.swift": [1523582419, 0]
+  "/Users/ianhanson/Desktop/Melini/KeywordMultiBusinessEdit/KeywordMultiBusinessEdit/AppDelegate.swift": [1523582419, 0]
